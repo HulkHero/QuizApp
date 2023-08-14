@@ -1,0 +1,124 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Berlin", "London", "Madrid"],
+      "correctOption": "Paris",
+      "selectedOption": "",
+      "difficulty": "easy",
+      "marks":10
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Neptune"],
+      "correctOption": "Mars",
+      "selectedOption": "",
+      "difficulty": "easy",
+      "marks":10
+    },
+    {
+      "question": "What is the largest mammal?",
+      "options": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+      "correctOption": "Blue Whale",
+      "selectedOption": "",
+      "difficulty": "easy",
+      "marks":10
+    },
+    {
+      "question": "Which famous scientist developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Marie Curie"],
+      "correctOption": "Albert Einstein",
+      "selectedOption": "",
+      "difficulty": "medium",
+      "marks":15
+    },
+    {
+      "question": "What is the chemical symbol for the element Oxygen?",
+      "options": ["O", "H", "N", "C"],
+      "correctOption": "O",
+      "selectedOption": "",
+      "difficulty": "medium",
+      "marks":15
+    },
+    {
+      "question": "Which animal is known as the 'king of the jungle'?",
+      "options": ["Tiger", "Lion", "Leopard", "Gorilla"],
+      "correctOption": "Lion",
+      "selectedOption": "",
+      "difficulty": "easy",
+      "marks":10
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Heart", "Brain", "Skin"],
+      "correctOption": "Skin",
+      "selectedOption": "",
+      "difficulty": "hard",
+      "marks":20
+    },
+    {
+      "question": "Which famous artist painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+      "correctOption": "Leonardo da Vinci",
+      "selectedOption": "",
+      "difficulty": "hard",
+      "marks":20
+    },
+    {
+      "question": "What is the chemical symbol for the element Gold?",
+      "options": ["Ag", "Au", "Fe", "Cu"],
+      "correctOption": "Au",
+      "selectedOption": "",
+      "difficulty": "hard",
+      "marks":20
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["China", "Japan", "India", "South Korea"],
+      "correctOption": "Japan",
+      "selectedOption": "",
+      "difficulty": "medium",
+      "marks":15
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+      "correctOption": "William Shakespeare",
+      "selectedOption": "",
+      "difficulty": "medium",
+      "marks":15
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Mars", "Saturn", "Jupiter", "Earth"],
+      "correctOption": "Jupiter",
+      "selectedOption": "",
+      "difficulty": "easy",
+      "marks":10
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1912", "1914", "1909", "1920"],
+      "correctOption": "1912",
+      "selectedOption": "",
+      "difficulty": "medium",
+      "marks":15
+    },
+    {
+      "question": "Which gas do plants use for photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+      "correctOption": "Carbon Dioxide",
+      "selectedOption": "",
+        "difficulty": "easy",
+        "marks":10
+      
+    },
+    {
+      "question": "Who is known as the 'father of modern physics'?",
+      "options": ["Niels Bohr", "Erwin Schrödinger", "Albert Einstein", "Werner Heisenberg"],
+      "correctOption": "Albert Einstein",
+      "selectedOption": "",
+      "difficulty": "easy",
+      "marks":10
+    }
+  ]
+  

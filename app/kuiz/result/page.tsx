@@ -32,6 +32,7 @@ const Result = () => {
                 <h1 className='text-center font-semibold text-2xl text-blue-600'>Score : {score}</h1>
                 <h1 className='text-center font-semibold text-2xl text-green-700'>Correct : {correct}</h1>
                 <h1 className='text-center font-semibold text-2xl text-red-700'>Wrong:{wrong}</h1>
+                <h1 className='text-center font-semibold text-2xl text-yellow-700'>Skipped:{skipped}</h1>
               </div>
 
               <div>

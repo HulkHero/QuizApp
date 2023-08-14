@@ -1,14 +1,14 @@
 'use client'
 import { createContext ,useContext,useReducer} from "react";
 import data from "../data/data.json";
-import { initialStateProps,dataType,actionProps } from "../components/types";
+import { initialState,dataType,actionProps } from "../components/types";
 
-const initialState:initialStateProps={
+const initialState:initialState={
     data:data as dataType[],
     index:0,
 }
  const QuizContext = createContext<{
-    state: initialStateProps;
+    state: initialState;
     dispatch: React.Dispatch<actionProps>;
 }>({
     state: initialState,
@@ -17,7 +17,7 @@ const initialState:initialStateProps={
 
 
 
-const reducer = (state:initialStateProps,action:actionProps) => {
+const reducer = (state:initialState,action:actionProps) => {
     switch(action.type){
       case 'NEXT':
         return {

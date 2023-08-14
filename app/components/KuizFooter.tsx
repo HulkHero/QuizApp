@@ -1,10 +1,10 @@
 import React from 'react'
-import { initialStateProps } from './types'
+import { initialState } from './types'
 type Props = {
   index:number
   handleNext:()=>void,
   handleSkip:()=>void,
-  state:initialStateProps,
+  state:initialState,
 }
 
 const KuizFooter = ({index,handleNext,handleSkip,state}:Props) => {

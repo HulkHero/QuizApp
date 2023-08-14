@@ -9,17 +9,29 @@ interface dataType {
     marks:number 
   }
 
-  interface initialStateProps {
+  interface initialState {
     data:dataType[],
     index:number,
   }
   
-  interface actionProps {
-    type:string ,
-    payload?:any
-  
-  
+  interface NextAction{
+    type:"NEXT",
+  }
+  interface SkipAction{
+    type:"SKIP",
+    payload:{
+      index:number
+    }
+  }
+  interface AnsweredAction{
+    type:"ANSWERED",
+    payload:{
+      index:number,
+      selectedValue:string
+    }
   }
 
-export type {dataType,initialStateProps,actionProps}
+type actionProps=NextAction|SkipAction|AnsweredAction
+
+export type {dataType,initialState,actionProps}
 
